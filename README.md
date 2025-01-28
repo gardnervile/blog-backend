@@ -28,8 +28,6 @@
 - `MEDIA_ROOT` — по умолчанию это `'media'`. [Что такое MEDIA_ROOT](https://docs.djangoproject.com/en/3.0/ref/settings/#std:setting-MEDIA_ROOT). 
 
 
-## Страницы сайта
-
 ### Главная
 
 Страница называется `index` и находится по адресу [http://127.0.0.1:8000](http://127.0.0.1:8000).
@@ -58,7 +56,6 @@
 * `image_url` — ссылка на картинку поста
 * `published_at` — когда пост опубликован, это объект datetime
 * `slug` — [слаг](https://toster.ru/q/375615)
-
 
 
 ### Контакты
